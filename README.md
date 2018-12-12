@@ -5,7 +5,7 @@ The aim is to reimplement the system described in a SIGGRAPH 2007 paper:
 
 # References
 
-* [Rendering for an Interactive 360 Degree Light Field Display](http://gl.ict.usc.edu/Research/3DDisplay/3DDisplay_USCICT_SIGGRAPH2007.pdf)
+* [SIGGRAPH 2007 - Rendering for an Interactive 360 Degree Light Field Display](http://gl.ict.usc.edu/Research/3DDisplay/3DDisplay_USCICT_SIGGRAPH2007.pdf)
 * [Multi-Use Light Engine](http://www.polarisroad.com/mule.pdf)
 
 
