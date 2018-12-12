@@ -14,6 +14,7 @@ The aim is to reimplement the system described in a SIGGRAPH 2007 paper:
 * [$100 development board, BeagleBone copmatible](https://www.digikey.com/product-detail/en/texas-instruments/DLPDLCR2000EVM/296-47119-ND/7598640)
     * [Datasheet](http://www.ti.com/lit/ug/dlpu049c/dlpu049c.pdf)
 * [DLP7000 data sheet](http://www.ti.com/lit/ds/symlink/dlp7000.pdf) - Apparently this is the DLP unit used in the USC paper
+* [TI DLPDLCR4710EVM-G2](https://www.digikey.com/product-detail/en/texas-instruments/DLPDLCR4710EVM-G2/296-46696-ND/7219324)
 
 
 # Other Holography and Volumetric Imagery Items of Interest
