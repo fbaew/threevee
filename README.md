@@ -36,7 +36,7 @@ Choosing the right projector components is crucial to the success of this projec
 ### Bigger/Costlier
 
 * DLP5500 DMD - $540 USD from [digikey](https://www.digikey.com/products/en?mpart=DLP5500BFYA&v=296)
-* DLPC200 - Controller supporting 5000 Hz binary image rate - [product page](http://www.ti.com/product/DLPC200), [datasheet](http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=dlpc200&fileType=pdf)
+* DLPC200 - $200 USD Controller supporting 5000 Hz binary image rate - [product page](http://www.ti.com/product/DLPC200), [datasheet](http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=dlpc200&fileType=pdf)
 * [TI DLPDLCR4710EVM-G2](https://www.digikey.com/product-detail/en/texas-instruments/DLPDLCR4710EVM-G2/296-46696-ND/7219324)
 
 # Rotating Platform
