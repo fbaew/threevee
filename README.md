@@ -21,6 +21,11 @@ Below is a list of component suppliers and data sheets -- some are provided for 
 
 ### Projectors
 
+Choosing the right projector components is crucial to the success of this project. The requirements are roughly as follows:
+
+* 1024x768 output resolution
+* Capable of 4800
+
 #### TI DLP Lightcrafter 2000
 * [$100 development board, BeagleBone copmatible](https://www.digikey.com/product-detail/en/texas-instruments/DLPDLCR2000EVM/296-47119-ND/7598640)
     * Projector system: Texas Instruments DLP Lightcrafter Display 2000 - [datasheet](http://www.ti.com/lit/ug/dlpu049c/dlpu049c.pdf)
@@ -30,6 +35,8 @@ Below is a list of component suppliers and data sheets -- some are provided for 
 
 ### Bigger/Costlier
 
+* DLP5500 DMD - $540 USD from [digikey](https://www.digikey.com/products/en?mpart=DLP5500BFYA&v=296)
+* DLPC200 - Controller supporting 5000 Hz binary image rate - [product page](http://www.ti.com/product/DLPC200), [datasheet](http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=dlpc200&fileType=pdf)
 * [TI DLPDLCR4710EVM-G2](https://www.digikey.com/product-detail/en/texas-instruments/DLPDLCR4710EVM-G2/296-46696-ND/7219324)
 
 # Rotating Platform
