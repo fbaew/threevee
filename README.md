@@ -26,7 +26,7 @@ Below is a list of component suppliers and data sheets -- some are provided for 
     * Display controller: Texas Instruments DLPC2607 - [product page](http://www.ti.com/product/DLPC2607), [datasheet](http://www.ti.com/lit/ds/symlink/dlpc2607.pdf)
 * [DLP7000 data sheet](http://www.ti.com/lit/ds/symlink/dlp7000.pdf) - Apparently this is the DLP unit used in the USC paper
 
-
+### Bigger/Costlier
 
 * [TI DLPDLCR4710EVM-G2](https://www.digikey.com/product-detail/en/texas-instruments/DLPDLCR4710EVM-G2/296-46696-ND/7219324)
 
