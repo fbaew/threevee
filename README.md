@@ -61,3 +61,7 @@ Choosing the right projector components is crucial to the success of this projec
 * [Photophoretic Trap System (paywall)](https://www.nature.com/articles/nature25176)
     * [Video](https://www.youtube.com/watch?v=YRZMdQOMPNQ)
 * [Voxon Photonics - Reciprocating Volumetric Display](https://www.youtube.com/watch?v=FVYoWsxqK8g)
+
+## Papers We'd Like to Read
+
+* Han and Perlin 2003 - Measuring bidirectional texture reflectance with a kaleidoscope
