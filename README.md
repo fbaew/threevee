@@ -61,6 +61,7 @@ Choosing the right projector components is crucial to the success of this projec
 * [Photophoretic Trap System (paywall)](https://www.nature.com/articles/nature25176)
     * [Video](https://www.youtube.com/watch?v=YRZMdQOMPNQ)
 * [Voxon Photonics - Reciprocating Volumetric Display](https://www.youtube.com/watch?v=FVYoWsxqK8g)
+* [Andrew Maimone](http://cs.unc.edu/~maimone/), Computer Science/3D Display researcher
 
 ## Papers We'd Like to Read
 
