@@ -3,8 +3,8 @@
 Threevee Mk. 1 will consist of:
 * DLP2000 ($30 low-res DMD)
 * DLPA1000 ($6 PMIC/LED driver)
+* Microcontroller (32F769IDISCOVERY [[overview](https://www.st.com/en/evaluation-tools/32f769idiscovery.html)])
 * Light source (need to research specific requirements)
-* FPGA development board (need to research specific requirements)
 * Crude optics (need to research specific requirements)
 
 ### Micromirror Device Considerations
