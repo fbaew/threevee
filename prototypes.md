@@ -27,3 +27,13 @@ to the task in production.
 
 The DLP2000 describes its powerup procedure in fair detail, so it is probably possible to perform the controller's 
 function on the FPGA, but the recommended driver IC is $6 so for the prototype it should be just fine.
+
+
+# Test Equipment
+
+Been kicking around ideas about how to measure the frame rate that this sombish can put out. Short of a super high FPS camera, the best idea so far is to build a small test harness with a fixed spot for the DMD to sit, with a light aimed at it such that it reflects into several photoresistors. The photoresistors have to be fast/responsive. Then we can attach the resistors to an oscilloscope or logic analyzer.
+
+The simplest setup would be a single photoresistor, with a test program to flip the mirrors all on and off as fast as possible.
+Ideally we would have 11 sensors and arrange them in such a way that we could align a segment of the projection with each of them. With 12 segments, we could encode up to 4096 different values. A 12-channel logic analyzer might not be available/feasible, but even with just a few we could devise a sequence to give some indication of how many frames into the test sequence we are.
+
+Dunno.
