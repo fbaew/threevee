@@ -12,6 +12,7 @@ The project is in the early exploratory stage currently, and there are many chal
   * Any DMD-based projector should be able to accomplish the required frame rate
 * How to balance the spinning element
 * How to implement the FPGA frame rate hack (achieve higher frame rates at lower color depth)
+  * Mk1 will use a microcontroller and hopefully that will be good enough.
 
 # Component Index
 
