@@ -65,6 +65,7 @@ Choosing the right projector components is crucial to the success of this projec
 
 * Han and Perlin 2003 - Measuring bidirectional texture reflectance with a kaleidoscope
 
-## Miscelaneous References
+## BGA References
 
 * [Working with BGA components](http://hforsten.com/making-embedded-linux-computer.html) (Designing a PCB for a 217-ball ARM processor)
+* [Stackoverflow on BGA in Eagle](https://electronics.stackexchange.com/questions/349810/how-to-properly-define-bga-footprint-in-eagle)
