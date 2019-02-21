@@ -70,3 +70,4 @@ Choosing the right projector components is crucial to the success of this projec
 
 * [Working with BGA components](http://hforsten.com/making-embedded-linux-computer.html) (Designing a PCB for a 217-ball ARM processor)
 * [Stackoverflow on BGA in Eagle](https://electronics.stackexchange.com/questions/349810/how-to-properly-define-bga-footprint-in-eagle)
+* [TI Wiki Page on BGA PCB Design](http://processors.wiki.ti.com/index.php/General_hardware_design/BGA_PCB_design)
